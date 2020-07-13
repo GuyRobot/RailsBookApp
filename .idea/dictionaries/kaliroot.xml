@@ -2,6 +2,7 @@
   <dictionary name="kaliroot">
     <words>
       <w>navbar</w>
+      <w>turbolinks</w>
     </words>
   </dictionary>
 </component>

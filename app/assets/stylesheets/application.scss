@@ -1,5 +1,10 @@
+/*
+*= require_tree .
+ */
 @import "bulma";
 @import "functions";
+@import "pricing";
+@import "books";
 
 .notification {
   border-radius: 0;
